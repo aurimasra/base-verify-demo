@@ -33,7 +33,7 @@ Even if a wallet has few transactions, Base Verify reveals if the user is high-v
 
 ## Architecture
 
-### Complete Verification Flow
+## Complete Verification Flow
 
 1. **Wallet Connection**: User connects wallet via OnchainKit
 2. **Signature Generation**: Frontend generates SIWE message with:
