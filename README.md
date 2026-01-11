@@ -16,7 +16,7 @@ Even if a wallet has few transactions, Base Verify reveals if the user is high-v
 - **Instagram**: Verify accounts, check follower counts
 - **TikTok**: Verify accounts, check followers, likes, video counts
 
-### Key Benefits
+## Key Benefits
 
 - **🛡️ Sybil Resistance**: Deterministic tokens prevent duplicate claims across different wallets
 - **🔐 Privacy-First**: Users never share credentials; OAuth handled by Base Verify
